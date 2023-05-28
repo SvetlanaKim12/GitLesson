@@ -11,7 +11,6 @@ public class Main {
     private static void mainMethodShowInfo() {
         System.out.println("Lets learn Git");
     }
-
 }
 
 
